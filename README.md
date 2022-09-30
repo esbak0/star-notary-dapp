@@ -10,6 +10,6 @@ The contract was deployed to **Goerli** test network since **Rinkeby** is alread
 **Token URL:** https://goerli.etherscan.io/tokens?q=0x23D706c07c219eE596274BE222996CAB0C9E3eD0
 
 ## Secrets file
-The infuraKey and mnemonic string hast to be placed in file secrets.json, copy
+The infuraKey and mnemonic string has to be placed in file secrets.json, copy
 and rename file secret.example.json and fill the JSON with the correct 
 information.
